@@ -11,7 +11,7 @@ For long, this process of sectioning was done manually by people but now technol
 ## Objective:
 	to predict which genre or category a piece of news will fall in to from the story.
 
-## Data:
+## Dataset:
 	Size of training set: 7,628 records
 	Size of test set: 2,748 records
 
